@@ -10,7 +10,7 @@
 }
 table img {
     height:250px;
-    max-width:100%;
+    max-width:auto;
 }
 
 body {
