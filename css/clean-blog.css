@@ -44,11 +44,12 @@ p {   font-family:"Varela Round", serif;font-size: 22px;
     height: 500px
 }
 
-.center_img_smallish {
+.center_img_st {
     display: block;
     margin-left: auto;
     margin-right: auto;
     height:460px
+}
 }
 
 
